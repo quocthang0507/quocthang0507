@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**quocthang0507/quocthang0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ introduction because it makes from `README.md` in **quocthang0507/quocthang0507** repository.
 
-Here are some ideas to get you started:
+Here are some information about me:
 
 - 🔭 I’m currently working on AIWS.net as a collaborators. The main responsibility is to collect information about The History of AI.
 - 🌱 I’m currently learning Information Technology, particularly Software Engineering major.
