@@ -5,7 +5,7 @@ This is a ✨ _special_ ✨ introduction because it was made from `README.md` in
 
 <img src="https://github-readme-stats.vercel.app/api?username=quocthang0507&show_icons=true&theme=vue">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocthang0507&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocthang0507&layout=compact&theme=vue">
 
 Here are some information about me:
 
