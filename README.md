@@ -3,6 +3,8 @@
 
 This is a ✨ _special_ ✨ introduction because it was made from `README.md` in **quocthang0507/quocthang0507** repository.
 
+<img src="https://github-readme-stats.vercel.app/api?username=quocthang0507&show_icons=true&theme=vue">
+
 Here are some information about me:
 
 - 🔭 I’m currently working on AIWS.net as a collaborators. The main responsibility is to collect information about The History of AI.
