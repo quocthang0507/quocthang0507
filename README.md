@@ -11,7 +11,6 @@ My aims: The four pillars of learning: `learn to know, learn to do, learn to be,
 
 Here are some information about me:
 
-- 🌱 I'm currently learning Information Technology, particularly Software Engineering major.
-- 👯 I'm looking to collaborate with someone for Artificial Intelligence.
-- 💬 To discuss about studies, please feel free to send me an email at [quocthang_0507@yahoo.com.vn ](mailto:quocthang_0507@yahoo.com.vn?subject=[GitHub]%20Hello)
+- 🌱 I graduated Software Engineering major at Da Lat University.
+- 👯 I care about Artificial Intelligence.
 - 😄 Name pronunciation for people who don't know how to spell Vietnamese: /tʰaŋ˧˥/ [Thắng](https://vi.wiktionary.org/wiki/th%E1%BA%AFng#Ti%E1%BA%BFng_Vi%E1%BB%87t)
