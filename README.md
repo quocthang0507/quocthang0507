@@ -9,6 +9,6 @@ My aims: The four pillars of learning: `learn to know, learn to do, learn to be,
 
 Here are some information about me:
 
-- 🌱 I graduated Software Engineering major at Da Lat University.
-- 👯 I care about Artificial Intelligence.
+- 🌱 I've graduated Software Engineering major at Da Lat University.
+- 👯 I interest in Artificial Intelligence.
 - 😄 Name pronunciation for people who don't know how to spell Vietnamese: /tʰaŋ˧˥/ [Thắng](https://vi.wiktionary.org/wiki/th%E1%BA%AFng#Ti%E1%BA%BFng_Vi%E1%BB%87t)
