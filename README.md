@@ -13,4 +13,4 @@ Here are some information about me:
 
 ![Metrics](https://metrics.lecoq.io/quocthang0507?template=classic&isocalendar=1&languages=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FSaigon)
 
-<iframe src="https://metrics.lecoq.io/about/quocthang0507" style="width:100%; height:300px;"></iframe>
+View full [Metric Insight](https://metrics.lecoq.io/about/quocthang0507)
