@@ -5,7 +5,7 @@ This is a ✨ _special_ ✨ introduction because it was made from `README.md` in
 
 My aims: The four pillars of learning: `learn to know, learn to do, learn to be, and learn to live together. (JACQUES DELORS, Learning: the treasure within, Unesco 1996)`
 
-<img src="https://github-readme-stats.vercel.app/api?username=quocthang0507&show_icons=true&theme=vue" style="width:100%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocthang0507&layout=compact&theme=vue" style="width:100%">
+<img src="https://github-readme-stats.vercel.app/api?username=quocthang0507&show_icons=true&theme=vue" style="height:168px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocthang0507&layout=compact&theme=vue" style="height:168px">
 
 Here are some information about me:
 
