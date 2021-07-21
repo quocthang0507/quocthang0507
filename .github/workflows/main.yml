@@ -50,7 +50,7 @@ jobs:
           plugin_projects_limit: 4
           plugin_rss: yes
           plugin_rss_limit: 10
-          plugin_rss_source: https://vnexpress.net/rss/tin-moi-nhat.rss
+          plugin_rss_source: https://vnexpress.net/rss/tin-noi-bat.rss
           plugin_traffic: yes
           repositories: 1000
           repositories_forks: yes
