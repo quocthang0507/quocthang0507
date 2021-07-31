@@ -1350,7 +1350,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    578 views in last two weeks
+                    563 views in last two weeks
                   
                 </div>
                             </section>
@@ -1432,13 +1432,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 35 commits)</small>
+        <small class="h-details">(computed from last 33 commits)</small>
       
     </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.5 characters per line of code written</li>
+                        <li>Has approximately 34.4 characters per line of code written</li>
                         <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1493,13 +1493,13 @@
               08
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               09
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1604,8 +1604,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1628,7 +1628,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Những trường hợp được cấp giấy đi lại ở Hà Nội</div>
+                                <div class="title">Quách Thị Lan lập kỳ tích cho điền kinh Việt Nam</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1637,7 +1637,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quách Thị Lan vào bán kết 400m rào</div>
+                                <div class="title">'Sau tiêm vaccine Covid-19 không nên vận động mạnh ngay'</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1646,7 +1646,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thêm 4.060 ca Covid-19</div>
+                                <div class="title">Đội chăm sóc F0 ở nhà máy</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1655,7 +1655,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Doanh nghiệp kêu cứu vì bị yêu cầu dừng sản xuất đột ngột</div>
+                                <div class="title">Hà Nội thêm 49 ca nghi nhiễm</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1664,7 +1664,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Y bác sĩ bệnh viện dã chiến hát cùng nghệ sĩ</div>
+                                <div class="title">Thông điệp của Bộ trưởng Quốc phòng Mỹ khi thăm Đông Nam Á</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1673,16 +1673,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Djokovic thua hai trận bán kết Olympic trong ba tiếng</div>
-                                <div class="date">30/07/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Biden tung 'cây gậy' vào chiến dịch tiêm chủng</div>
+                                <div class="title">40.000 dân ở quận Hoàn Kiếm phải cách ly</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1691,7 +1682,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Covid 24h: Ca nhiễm tăng, Hà Nội xây bệnh viện dã chiến 500 giường</div>
+                                <div class="title">Lời cuối của người chần chừ tiêm chủng</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1700,7 +1691,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chân chạy được ca ngợi khi bỏ cuộc ở vị trí dẫn đầu</div>
+                                <div class="title">Các CLB sáng lập Super League thắng kiện UEFA</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -1709,7 +1700,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nha Trang phong toả 11 xã phường hơn 180.000 dân</div>
+                                <div class="title">Phập phồng nỗi lo rớt mạng khi thi online</div>
+                                <div class="date">31/07/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Thêm hơn 2.800 người TP HCM xuất viện</div>
                                 <div class="date">31/07/2021</div>
                             </div>
                         </div>
@@ -3860,7 +3860,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.704906032470827 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.75269179128616 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4022,7 +4022,7 @@
                   Inspirationer
                   
                     <span class="gh">
-                      ranked 1.84m out of 238m repositories
+                      ranked 1.85m out of 238m repositories
                     </span>
                   
                 </div>
@@ -4217,7 +4217,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31/07/2021, 08:02 (timezone Asia/Saigon) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 31/07/2021, 13:26 (timezone Asia/Saigon) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
