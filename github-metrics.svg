@@ -1367,7 +1367,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    337 views in last two weeks
+                    334 views in last two weeks
                   
                 </div>
                             </section>
@@ -1632,32 +1632,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 42.417269224679366%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 42.4165229935611%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">53%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 19.55771362220932%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 19.557369550684353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">24%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Solidity</span>
-                            <div class="bar" style="width: 8.719058426136064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.718905035009325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">11%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 6.821836350521631%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.821716336511734%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML+Razor</span>
-                            <div class="bar" style="width: 1.4848436867753911%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.4862249744906935%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.9992786896782252%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.9992611097427959%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -1675,7 +1675,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dịch ở TP HCM đang thế nào?</div>
+                                <div class="title">5 đại án tham nhũng, kinh tế sẽ được khẩn trương xét xử</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1684,7 +1684,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">'Gõ cửa từng nhà' tìm người khó khăn</div>
+                                <div class="title">Thêm 3.298 ca Covid-19 ở 32 tỉnh thành</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1693,7 +1693,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nhiều thực phẩm online tăng giá gấp đôi</div>
+                                <div class="title">Cách để chợ, siêu thị không lặp lại kịch bản như TP HCM</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1702,7 +1702,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Những điểm kẹt xe ở TP HCM trước và trong giãn cách</div>
+                                <div class="title">Việt Nam yêu cầu Trung Quốc chấm dứt tập trận tại Hoàng Sa</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1711,7 +1711,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thêm 3.943 ca Covid-19</div>
+                                <div class="title">Việt Nam bình luận việc Đức, Ấn điều tàu chiến đến Biển Đông</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1720,7 +1720,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thêm 21 người Hà Nội nghi Covid-19</div>
+                                <div class="title">Hơn 900 tỷ đồng hỗ trợ người nghèo, lao động mất việc</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1729,7 +1729,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Giám đốc Sở Du lịch bị đình chỉ công tác vì chơi golf giữa dịch</div>
+                                <div class="title">Nhiều người gặp khó khi mua thực phẩm bằng phiếu</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1738,7 +1738,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trắng đêm tuần tra chống dịch</div>
+                                <div class="title">Người vi phạm giãn cách 'hối hận vì ép xe cảnh sát'</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1747,7 +1747,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Giang Còi - nụ cười khỏa lấp nỗi buồn</div>
+                                <div class="title">Thêm hai nghi phạm cướp xe máy của nữ lao công bị bắt</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -1756,7 +1756,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Miễn tiền trọ cho công nhân mùa dịch</div>
+                                <div class="title">'Thận trọng khi mua kit test nhanh trên mạng'</div>
                                 <div class="date">05/08/2021</div>
                             </div>
                         </div>
@@ -3854,7 +3854,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.653333333333336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.75666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3876,7 +3876,7 @@
                   Master deployer
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1316 times</div>
+                                <div class="text">Repositories have been deployed 1317 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3915,7 +3915,7 @@
                   Master developer
                   
                     <span class="gh">
-                      ranked 109k out of 74m users
+                      ranked 109k out of 75m users
                     </span>
                   
                 </div>
@@ -3932,7 +3932,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.813955258593353 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.86806265918314 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4045,7 +4045,7 @@
                   Influencer
                   
                     <span class="gh">
-                      ranked 293k out of 74m users
+                      ranked 293k out of 75m users
                     </span>
                   
                 </div>
@@ -4289,7 +4289,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 05/08/2021, 13:24 (timezone Asia/Saigon) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 05/08/2021, 19:31 (timezone Asia/Saigon) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
