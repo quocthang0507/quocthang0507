@@ -1427,7 +1427,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    608 views in last two weeks
+                    629 views in last two weeks
                   
                 </div>
                             </section>
@@ -1692,17 +1692,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 47.556505251753094%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 47.55943424616311%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">59%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Jupyter Notebook</span>
-                            <div class="bar" style="width: 30.60884220663918%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 30.606078844417695%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">38%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 1.8346525416077286%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.8344869094191996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                     </div>
@@ -1720,7 +1720,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bộ trưởng Y tế: Đảm bảo vaccine cho chiến dịch tiêm mũi 1 ở Hà Nội</div>
+                                <div class="title">Số ca tử vong do Covid-19 tại TP HCM 'giảm đáng kể'</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1729,7 +1729,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ngại đặt thức ăn mang về vì phí giao hàng cao ngất ngưởng</div>
+                                <div class="title">Bão Côn Sơn ảnh hưởng đến khu vực có hơn 4.000 F0</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1738,7 +1738,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trẻ lớp 1, 2 ở TP HCM học qua truyền hình</div>
+                                <div class="title">Thêm 13.321 ca Covid-19</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1747,7 +1747,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Những cuộc gọi từ xa phát hiện F0 nguy kịch</div>
+                                <div class="title">Ban chỉ đạo Trung ương phòng, chống tham nhũng được bổ sung nhiệm vụ</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1756,7 +1756,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tiêu chí để các nước sống chung với Covid-19</div>
+                                <div class="title">Vóc dáng thon gọn của Kim Jong-un gây bất ngờ</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1765,7 +1765,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">'Người đàn ông rơi' ám ảnh vụ 11/9</div>
+                                <div class="title">Nhân viên siêu thị, shipper được lưu thông tới 21h30</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1774,7 +1774,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vợ chồng Giao Linh 35 năm trọn nghĩa tình</div>
+                                <div class="title">Thức ăn 5 bệnh viện không hợp khẩu vị y bác sĩ</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1783,7 +1783,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TP HCM chuẩn bị xét xử trực tuyến</div>
+                                <div class="title">Đan Mạch dỡ bỏ mọi hạn chế Covid-19</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1792,7 +1792,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nghiên cứu tê giác treo ngược đoạt giải Ig Nobel 2021</div>
+                                <div class="title">Phê duyệt vaccine Covid-19 của UAE</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -1801,7 +1801,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hơn 1.500 người khỏi Covid-19 tình nguyện chống dịch</div>
+                                <div class="title">Thêm 29 người Hà Nội dương tính nCoV trong 24 giờ</div>
                                 <div class="date">10/09/2021</div>
                             </div>
                         </div>
@@ -3903,7 +3903,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.35666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.46 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3926,7 +3926,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1497 times</div>
+                                <div class="text">Repositories have been deployed 1498 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3983,7 +3983,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.45755724949263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.51172566265538 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4349,7 +4349,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10/09/2021, 13:22 (timezone Asia/Saigon) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 10/09/2021, 19:30 (timezone Asia/Saigon) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
