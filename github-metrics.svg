@@ -1427,7 +1427,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    699 views in last two weeks
+                    686 views in last two weeks
                   
                 </div>
                             </section>
@@ -1692,17 +1692,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Jupyter Notebook</span>
-                            <div class="bar" style="width: 44.67472857268956%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 44.6767003575054%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">56%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 32.521846588401445%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 32.5197510703094%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">41%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 2.8034248389089944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.8035485721851967%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                     </div>
@@ -1720,25 +1720,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thủ tướng kêu gọi đoàn kết khi 'thích ứng an toàn với Covid'</div>
-                                <div class="date">29/09/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">PC-Covid sẽ là ứng dụng duy nhất phục vụ chống dịch</div>
-                                <div class="date">29/09/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">'Ế' giường điều trị Covid - tín hiệu lạc quan của TP HCM</div>
+                                <div class="title">TP HCM bỏ giấy đi đường sau ngày 30/9</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1747,7 +1729,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PC-Covid đã có mặt trên kho ứng dụng Apple và Google</div>
+                                <div class="title">Ngành nghề ở TP HCM được mở cửa sau 30/9</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1756,7 +1738,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nước Đức mới giữa đôi dòng Mỹ - Trung</div>
+                                <div class="title">Các cơ sở y tế tại TP HCM hoạt động trở lại</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1765,7 +1747,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bác sĩ tuyến cuối: 'Không tin tình hình chuyển biến xấu sau mở cửa'</div>
+                                <div class="title">Cách để thích ứng chống dịch, phục hồi sản xuất</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1774,7 +1756,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bác sĩ tuyến đầu hát 'Việt Nam I Love'</div>
+                                <div class="title">Núi thách thức chờ đón thủ tướng tương lai Nhật</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1783,7 +1765,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ronaldo giúp Man Utd thắng phút 95</div>
+                                <div class="title">Mạnh Quỳnh thương nhớ Phi Nhung</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1792,7 +1774,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hơn 2 km bờ sông biên giới Việt Nam – Lào bị sạt lở</div>
+                                <div class="title">Mỹ tuyên bố không thù địch với Triều Tiên</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -1801,7 +1783,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ngày tháng cuối đời của ca sĩ Phi Nhung</div>
+                                <div class="title">Gam màu sáng tối của kinh tế 9 tháng</div>
+                                <div class="date">30/09/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Vì sao nhiều tỉnh đề xuất người 4 địa phương tâm dịch không tự về quê?</div>
+                                <div class="date">30/09/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">8 lần Trung Quốc thay đổi cách tính ca Covid-19</div>
                                 <div class="date">30/09/2021</div>
                             </div>
                         </div>
@@ -3898,7 +3898,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.83 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.93333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3921,7 +3921,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1579 times</div>
+                                <div class="text">Repositories have been deployed 1580 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3978,7 +3978,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.657910848316206 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.70422033977042 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4344,7 +4344,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30/09/2021, 08:09 (timezone Asia/Saigon) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 30/09/2021, 13:23 (timezone Asia/Saigon) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
