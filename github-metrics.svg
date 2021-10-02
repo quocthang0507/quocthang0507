@@ -1498,7 +1498,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    635 views in last two weeks
+                    639 views in last two weeks
                   
                 </div>
                             </section>
@@ -1791,7 +1791,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Thủ tướng: Dịch bệnh trên toàn quốc được kiểm soát</div>
+                                <div class="title">Tích hợp thẻ xanh Covid-19 trên căn cước công dân gắn chip</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1809,7 +1809,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Người TP HCM 'kẹt' ở tỉnh muốn trở về cần làm gì?</div>
+                                <div class="title">Mỹ tặng thêm Việt Nam gần 1,5 triệu liều vaccine Pfizer</div>
+                                <div class="date">02/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Thủ tướng: Dịch bệnh trên toàn quốc được kiểm soát</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1827,7 +1836,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xác minh tố cáo về một số nghệ sĩ quyên góp từ thiện</div>
+                                <div class="title">Đồng nghiệp viếng Phi Nhung</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1836,7 +1845,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CDC Hà Nội: Số ca mắc Covid ở Bệnh viện Việt Đức sẽ còn tăng</div>
+                                <div class="title">Fernandes: 'Man Utd đá chậm ở hiệp hai'</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1845,7 +1854,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Man Utd 1-0 Everton (hết hiệp 1): Martial mở tỷ số</div>
+                                <div class="title">Dortmund áp sát Bayern</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1854,7 +1863,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bộ Kế hoạch &amp;amp; Đầu tư: GDP năm 2021 có thể tăng 3-3,5%</div>
+                                <div class="title">Thứ trưởng Y tế: 'Không đóng cả nhà máy nếu phân xưởng có F0'</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -1863,16 +1872,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Các tỉnh, thành phía Bắc kiểm soát người vào địa bàn ra sao?</div>
-                                <div class="date">02/10/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Chủ tịch nước: 'Còn nhiều thách thức nhưng ánh sáng đã xuất hiện'</div>
+                                <div class="title">Người dân TP HCM xếp hàng nhận tiền hỗ trợ Covid</div>
                                 <div class="date">02/10/2021</div>
                             </div>
                         </div>
@@ -3991,7 +3991,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.86333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.96666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4014,7 +4014,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1589 times</div>
+                                <div class="text">Repositories have been deployed 1590 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4437,7 +4437,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 02/10/2021, 19:29 (timezone Asia/Saigon) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 03/10/2021, 01:22 (timezone Asia/Saigon) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
