@@ -1498,7 +1498,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    686 views in last two weeks
+                    688 views in last two weeks
                   
                 </div>
                             </section>
@@ -1801,7 +1801,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chuyên gia: 'Nhiều bất lợi khi quy hoạch 3 huyện ở Hà Nội lên thành phố'</div>
+                                <div class="title">Bộ Giao thông Vận tải chưa bỏ quy định xét nghiệm vì chờ địa phương</div>
+                                <div class="date">15/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Vaccine Covid-19 nào đang tiêm và thử nghiệm cho trẻ em</div>
+                                <div class="date">15/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Việt Nam cam kết không tăng nhiệt điện than</div>
                                 <div class="date">15/10/2021</div>
                             </div>
                         </div>
@@ -1819,7 +1837,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WHO: Ca nhiễm, tử vong do Covid-19 giảm toàn cầu</div>
+                                <div class="title">Hà Nội dừng kiểm soát ở nhiều chốt cửa ngõ</div>
                                 <div class="date">15/10/2021</div>
                             </div>
                         </div>
@@ -1828,25 +1846,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">IMF dự báo GDP Việt Nam tăng cao nhất nhóm 5 nước ASEAN</div>
-                                <div class="date">14/10/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Các địa phương dần bỏ cách ly, xét nghiệm với du khách</div>
-                                <div class="date">15/10/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Thách thức mới với trường học: chống quay cóp khi thi online</div>
+                                <div class="title">Chuyên gia: 'Nhiều bất lợi khi quy hoạch 3 huyện ở Hà Nội lên thành phố'</div>
                                 <div class="date">15/10/2021</div>
                             </div>
                         </div>
@@ -1864,15 +1864,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Argentina 1-0 Peru (hiệp 2): Đội khách hỏng phạt đền</div>
-                                <div class="date">15/10/2021</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Tình nguyện viên ngày trở về: 'Cứu người nhưng không cứu nổi ba'</div>
                                 <div class="date">15/10/2021</div>
                             </div>
@@ -1882,8 +1873,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bí thư TP HCM: 'Phải lên kịch bản chống dịch cho giai đoạn mới'</div>
-                                <div class="date">14/10/2021</div>
+                                <div class="title">Nhiều địa phương chưa phân loại cấp độ dịch, vẫn xét nghiệm đi lại</div>
+                                <div class="date">15/10/2021</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">WHO: Ca nhiễm, tử vong do Covid-19 giảm toàn cầu</div>
+                                <div class="date">15/10/2021</div>
                             </div>
                         </div>
                     </section>
@@ -3996,7 +3996,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.23666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.34 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4019,7 +4019,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1641 times</div>
+                                <div class="text">Repositories have been deployed 1642 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4442,7 +4442,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15/10/2021, 08:08 (timezone Asia/Saigon) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 15/10/2021, 13:23 (timezone Asia/Saigon) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
